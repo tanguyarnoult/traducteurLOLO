@@ -1,0 +1,99 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+    background-color: #002d47;
+}
+
+h1{
+    text-align: center;
+    font-family: Raleway;
+    color: #FFFBF1;
+    margin-top: 10vh;
+    margin-bottom: 4vh;
+    font-size: 300%;
+}
+
+.gold{
+    color: #FAA01E;
+}
+
+.traducteur{
+    display: flex;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 65vh;
+}
+
+.java{
+    width: 49%;
+}
+
+.lolo{
+    width: 49%;
+}
+
+.javaText{
+    background-color: #002d47;
+    color: #FFFBF1;
+    font-size: 13.4px;
+    border: solid #FFFBF1;
+    color: #FFFBF1;
+    resize : none;
+}
+
+.loloText{
+    background-color: #002d47;
+    color: #FAA01E;
+    font-size: 13.4px;
+    resize : none;
+    border: solid #FAA01E;
+    margin-left: 2%;
+}
+
+.boutons{
+    display: flex;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: space-around;
+}
+
+.confirmer{
+    display: flex;
+    font-size: 18px;
+    font-family: Raleway;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #002d47;
+    border: solid 2px #FAA01E;
+    color: #FAA01E;
+    margin-top: 1vh;
+    border-radius: 15px;
+    justify-content: center;
+    margin-right: 5px;
+}
+
+.reset{
+    display: flex;
+    font-size: 18px;
+    font-family: Raleway;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #002d47;
+    border: solid 2px #FAA01E;
+    color: #FAA01E;
+    margin-top: 1vh;
+    border-radius: 15px;
+    justify-content: center;
+    border-color: #FFFBF1;
+    color: #FFFBF1;
+    width: 300%;
+    margin-left: 5px;
+}
+
+a{
+    text-decoration: none;
+}
